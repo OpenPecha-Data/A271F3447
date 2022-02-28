@@ -1,0 +1,28 @@
+segment_sources:
+  PA73A0F75:
+    type: origin_type
+    relation: translation
+    language: en
+  P41351915:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4dff24c7905b44208df790ce6aca0078:
+    PA73A0F75: 516faffca34246af99d86f343a05f17d
+    P41351915: e6818f43357d4b5e87dab9f64152542d
+  ec2c701d30f244f896d074ca7aebaef0:
+    PA73A0F75: 2fef4f10f9f34e6285ecda883dd17533
+    P41351915: ff0e6904a75242d18b1f15352dd658a7
+  191ad2e7a9114d8fadad1f2683b17d1e:
+    PA73A0F75: de6da50eb8aa4275ae5713712072669a
+    P41351915: 82dc56674e57450498921d3a60429852
+  6e8a93e0fbc54c95907b84d973b073f1:
+    PA73A0F75: b5f6bbaeeebe4fc4972cca7dc5eaabf0
+    P41351915: b5de245d620544759645f9bd9b4d2447
+  90d9fda55a3e4d29bcadaf08738d27e8:
+    PA73A0F75: 459227db738a4255a58af9e760a646cb
+    P41351915: ec0eb4eb3ea54f7ab52e684ef3a27b44
+  5a36201037e14d02ac668a048b734462:
+    PA73A0F75: d16c71d9dc56477fb11ec7e94df926ee
+    P41351915: 3b28fb355f224c8595499f36f2b1991c
